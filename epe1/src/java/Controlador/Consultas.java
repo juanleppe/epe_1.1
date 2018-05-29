@@ -74,9 +74,6 @@ public class Consultas extends Conexion {
         
     }
     
-    public static void main(String[] args) {
-        Consultas co= new Consultas();
-        System.out.println(co.registrar("german","1111"));
-    }
+
 }
 
